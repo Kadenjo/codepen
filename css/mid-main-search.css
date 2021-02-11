@@ -1,0 +1,44 @@
+
+.search-bar>.form-group{
+    display: flex;
+    font-size:1.5rem;
+    font-family: inherit;
+    padding: 1.5rem 14rem;
+    border-radius: 2px;
+    border: none;
+    width: 1000px ;
+    display: block;
+    transition: all .3s;
+    display: grid;
+    font: inherit;
+    font-family: 'Lexend Mega', sans-serif;
+    font-weight: bold;
+}
+.search-bar>.form-group #email{
+    padding-bottom: 2px;
+}
+.pic img{
+    height: 200px;
+   padding-left: 20px;
+   padding-top: 50px;
+}
+.ppic {
+    margin-top: -560px;
+    margin-left: -210px;
+}
+.ppic img{
+    padding-left:415px ;
+    height: 600px;
+    padding-top: 70px;
+}
+.top-mid-main{
+   margin-bottom: 500px 300px;
+}
+.extra>.extratwo{
+    position: relative;
+}
+.extratwo a{
+    position: absolute;
+    bottom: 30px;
+    left: 40px;
+}
